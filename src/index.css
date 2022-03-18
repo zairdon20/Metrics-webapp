@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  list-style: none;
+}
+
+body {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3a386c82;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  width: auto;
+  margin: auto;
+  border: 1px solid lightgray;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 0 0 0;
+}
+
+.navbar h2 {
+  margin-left: 40px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  margin-top: 5rem;
+}
+
+.return {
+  width: 27px;
+}
+
+.top-right {
+  display: flex;
+  margin: 0 20px;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.mic {
+  margin-right: 10px;
+}
+
+.set {
+  width: 20px;
+}
+
+.body {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background: linear-gradient(90deg, #232324 0%, #69746a 100%);
+  grid-gap: 18px;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  width: 90%;
+}
+
+.back {
+  color: rgb(32, 32, 236);
+  font-size: 47px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border: solid aqua 1px;
+}
+
+.heading {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.img {
+  width: 50%;
+  height: 50%;
+  margin-left: 10px;
+}
+
+.main-cont {
+  display: flex;
+  background-color: chartreuse;
+  padding: 5px 15px;
+  align-items: center;
+  border-radius: 1rem;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  text-align: center;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.data-flag {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color: cadetblue;
+}
+
+.data-flag h2 {
+  font-size: 25px;
+}
+
+.list {
+  list-style: none;
+}
+
+.list p {
+  background-color: aquamarine;
+  padding: 25px;
+  border-radius: 10px;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.input-box {
+  text-align: center;
+}
+
+.input {
+  width: 80%;
+  font-size: 24px;
+  padding: 10px;
+  height: 56px;
+  border-radius: 20px;
+}
