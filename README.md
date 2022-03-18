@@ -1,6 +1,6 @@
 # COVID-19-Tracking-project
 
-![HomePage](./home.png)          ![Details Page](./data.png)
+![HomePage](./Homepage.png)          ![Details Page](./data.png)
 
 > COVID-19-Tracking-project is a project built using React and redux in this project information on the COVID-19 virus is being fetched from an API. This Application shows data on COVID-19 in European countries, the information is on COVID-19 cases, deaths, people tested etc.
 
@@ -20,7 +20,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Click here](https://covid-19-tracking-project.netlify.app/) 
+[Click here](https://silly-kilby-0f11e0.netlify.app/) 
 
 ## Link to video
 [click here](https://www.loom.com/share/91298e75f3c24f26846bcd510c905f80)
@@ -29,7 +29,7 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 ```
-git clone git@github.com:Tchilo/COVID-19-Tracking-project.git
+git clone https://github.com/zairdon20/Metrics-webapp.git
 
 cd COVID-19-Tracking-project
 
@@ -81,7 +81,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Author
 
-- GitHub: [zairdon20](https://github.com/zairdon20)
+- GitHub: [@zairdon20](https://github.com/zairdon20)
+- Twitter: [@Josphat1](https://twitter.com/Josphat1)
+- LinkedIn: [@Josphat Nkonde](https://www.linkedin.com/in/josphat-nkonde-092510183/)
 
 
 ## 🤝 Contributing
