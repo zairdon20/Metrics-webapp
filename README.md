@@ -5,7 +5,6 @@
 > COVID-19-Tracking-project is a project built using React and redux in this project information on the COVID-19 virus is being fetched from an API. This Application shows data on COVID-19 in European countries, the information is on COVID-19 cases, deaths, people tested etc.
 
 
-Additional description about the project and its features.
 
 # Built With
 
@@ -31,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 ```
 git clone https://github.com/zairdon20/Metrics-webapp.git
 
-cd COVID-19-Tracking-project
+cd Metrics-webapp
 
 npm i 
 
